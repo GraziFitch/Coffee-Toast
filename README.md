@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects involving bilingual speakers (Brazilian Portuguese/English)
 - 📫 How to reach me 
 - 😄 Pronouns: she, her
-- ⚡ Fun fact: nature lover (no bugs though!😄) 
+- ⚡ Fun fact: nature lover (no bugs though 😉) 
 
 <!---
 GraziFitch/GraziFitch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
