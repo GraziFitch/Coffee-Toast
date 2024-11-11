@@ -2,9 +2,9 @@
 - 👀 I’m interested in diversity of cultures, of languages, of food, of thoughts...  
 - 🌱 I’m currently learning about GitHub 
 - 💞️ I’m looking to collaborate on projects involving bilingual speakers (Brazilian Portuguese/English)
-- 📫 How to reach me graziela.fitch@gmail.com
+- 📫 How to reach me 
 - 😄 Pronouns: she, her
-- ⚡ Fun fact: nature lover, yogini 
+- ⚡ Fun fact: nature lover (no bugs though!😄) 
 
 <!---
 GraziFitch/GraziFitch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
