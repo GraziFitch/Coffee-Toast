@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GraziFitch
-- 👀 I’m interested in the diversity of cultures, of languages, of cuisine, of thoughts...
+- 👀 I’m interested in learning new skills related to basic coding and AI
 - 🌱 I’m currently learning about GitHub 
 - 💞️ I’m looking to collaborate on projects involving bilingual speakers (Brazilian Portuguese/English)
 - 📫 How to reach me 
